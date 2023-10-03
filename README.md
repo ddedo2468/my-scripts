@@ -7,11 +7,9 @@ This Bash script allows you to create multiple files with a specified name and e
 
 ## Usage
 
-1. Clone or download this repository to your local machine:
+1. Clone or copy fileMaker.sh to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
 
     chmod +x fileMaker.sh
    ./fileMaker.sh <filename> <count>
