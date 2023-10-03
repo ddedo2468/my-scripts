@@ -19,3 +19,4 @@ This Bash script allows you to create multiple files with a specified name and e
    as example
 
    ./fileMaker.sh answer 28
+![example](https://github.com/ddedo2468/my-scripts/blob/main/img/fileMaker.JPG)
